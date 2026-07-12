@@ -1,2 +1,2 @@
-# Levi-s-Hackpad
+# Levis-Hackpad
 My first project!
