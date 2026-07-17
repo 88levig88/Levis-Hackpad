@@ -1,6 +1,6 @@
-# Levis-Hackpad
+# Versity
 
-This project has 8 keys, which are all backlit, a rotary encoder switch, and an OLED display.
+Versity is a macropad that has 8 keys which are all backlit, a rotary encoder switch, and an OLED display.
 
 
 ## Finished Design:
